@@ -8,5 +8,6 @@
   "include": [
     "./src/app/gridstack.component.ts",
     "./src/app/gridstack-item.component.ts",
+    "./src/app/app.module.ts"
   ],
 }
